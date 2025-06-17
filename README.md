@@ -1,7 +1,7 @@
-# Portfolio Prototype 1
+# photo_portfolio1
 
 ## 公開サイト 
-https://takke-a.github.io/prototype1/
+https://takke-a.github.io/photo_portfolio1/
 
 ---
 
