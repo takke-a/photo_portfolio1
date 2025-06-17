@@ -1,11 +1,11 @@
 # Portfolio Prototype 1
 
-## 🌐 公開サイト 
+## 公開サイト 
 https://takke-a.github.io/prototype1/
 
 ---
 
-## 📝 概要
+## 概要
 
 このプロジェクトは、ポートフォリオの一環として自主的に制作したWebサイトです。  
 HTML・CSSの基礎力やレイアウト設計の理解を深めることを目的としています。
@@ -14,7 +14,7 @@ This is a portfolio website I created to practice and demonstrate my frontend sk
 
 ---
 
-## 🛠 使用技術 
+## 使用技術 
 
 - HTML5  
 - CSS3  
@@ -23,7 +23,7 @@ This is a portfolio website I created to practice and demonstrate my frontend sk
 
 ---
 
-## 🎯 工夫した点 
+## 工夫した点 
 
 - モバイルファーストのレスポンシブデザイン  
 - シンプルかつ見やすいUIを意識した構成  
@@ -31,7 +31,7 @@ This is a portfolio website I created to practice and demonstrate my frontend sk
 
 ---
 
-## 📌 今後の改善点 
+## 今後の改善点 
 
 - JavaScriptによる動的要素の追加（メニュー、フェードインなど）  
 - 他のポートフォリオコンテンツの追加（成果物紹介、自己紹介など）  
@@ -39,8 +39,8 @@ This is a portfolio website I created to practice and demonstrate my frontend sk
 
 ---
 
-## 👤 作者 
+## 作者 
 
-- 名前: Takke（たっけ）  
+- 名前: Takao Iwasaki
 - GitHub: [https://github.com/takke-a](https://github.com/takke-a)  
 - このプロジェクトはポートフォリオ提出のために自主的に作成したものです。
